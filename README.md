@@ -7,6 +7,8 @@ playing cricket for 6 balls with computer using hand-gesture images or webcam
 
 ![hand_cricket_1](https://user-images.githubusercontent.com/67555058/109468476-a19a7400-7a92-11eb-85c1-e6a9ad29f6a3.jpg)
 
+### USE YOUR RIGHT HANDS
+
 
 # Models
 mkdir models
