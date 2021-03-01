@@ -11,8 +11,8 @@ playing cricket for 6 balls with computer using hand-gesture images or webcam
 
 
 # Models
-mkdir models
-cd models &
+mkdir models...
+cd models.... &
 load_models.sh
 
 ### Git Clone
