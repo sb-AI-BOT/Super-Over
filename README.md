@@ -29,7 +29,7 @@ git clone https://github.com/sb-AI-BOT/face_swap.git
 Note: See [requirements.txt](requirements.txt) for more details.
 
 ## playing with images
-python run_img.py      # you can use gesture images in img folder
+python run_img.py             # you can use gesture images in img folder
 
 ## playing on webcam
 python run_web_cam.py  
