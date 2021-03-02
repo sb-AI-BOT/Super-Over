@@ -195,6 +195,7 @@ oppenent_chose=["bat","bowl"]
 choice=random.randint(0,1)
 oppenent_chose=oppenent_chose[choice]
 
+print("copy one of the image path from img folder and paste in input textbar....")
 hand,_= finger_det(input("ur img!!! "))
 oppenent_run = random.randint(1,6)
 print(oppenent_name,str(oppenent_run))
