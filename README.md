@@ -10,7 +10,7 @@ playing cricket for 6 balls with computer using hand-gesture images or webcam
 
 ### USE YOUR RIGHT HANDS
 
-
+## Get started 
 ### Git Clone
 ```sh
 git clone https://github.com/sb-AI-BOT/face_swap.git
