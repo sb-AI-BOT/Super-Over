@@ -1,6 +1,6 @@
 # Super-Over   
 # Hand-Cricket
-playing cricket for 6 balls with computer using hand-gesture images or webcam
+playing cricket for 6 balls with computer using hand-gesture images or webcam ....
 
 
 
