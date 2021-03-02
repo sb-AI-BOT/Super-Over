@@ -1,4 +1,5 @@
-# Super-Over
+# Super-Over   
+# Hand-Cricket
 playing cricket for 6 balls with computer using hand-gesture images or webcam
 
 
@@ -10,16 +11,10 @@ playing cricket for 6 balls with computer using hand-gesture images or webcam
 ### USE YOUR RIGHT HANDS
 
 
-# Models
-mkdir models...
-cd models.... &
-load_models.sh
-
 ### Git Clone
 ```sh
 git clone https://github.com/sb-AI-BOT/face_swap.git
 ```
-
 
 
 ## Installation
@@ -27,6 +22,11 @@ git clone https://github.com/sb-AI-BOT/face_swap.git
 * `pip install -r requirements.txt`
 
 Note: See [requirements.txt](requirements.txt) for more details.
+
+## To Download tflite 
+load_models.sh
+
+
 
 ## playing with images
 python run_img.py             # you can use gesture images in img folder
